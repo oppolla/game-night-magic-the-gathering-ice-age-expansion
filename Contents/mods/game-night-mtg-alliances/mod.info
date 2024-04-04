@@ -1,5 +1,5 @@
-name=Game Night - Magic The Gathering - Ice Age Expansion Set
-id=gamenight_mtg_ice_age
+name=Game Night - Magic The Gathering - Alliances Expansion Set
+id=gamenight_mtg_alliances
 description=Simple strategies...Infinte possibilies
 poster=poster.png
 require=gamenight
